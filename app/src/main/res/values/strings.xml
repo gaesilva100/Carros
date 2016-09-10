@@ -28,4 +28,5 @@
     <string name="classicos">Classicos</string>
     <string name="esportivos">Esportivos</string>
     <string name="luxo">Luxo</string>
+    <string name="title_activity_carro">CarroActivity</string>
 </resources>

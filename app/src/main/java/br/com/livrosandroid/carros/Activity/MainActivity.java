@@ -1,6 +1,5 @@
 package br.com.livrosandroid.carros.Activity;
 
-
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
@@ -36,7 +35,9 @@ public class MainActivity extends BaseActivity implements NavigationDrawerFragme
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         FragmentManager supportFragmentManager = getSupportFragmentManager();
+
         setUpToolbar();
 
         // Nav Drawer
