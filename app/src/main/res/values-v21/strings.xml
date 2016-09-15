@@ -4,29 +4,27 @@
     <string name="configuracoes">Configurações</string>
     <string name="carros">Carros</string>
     <string name="action_about">sobre</string>
-    <string name="nav_drawer_username">Gabriel Erick Silva</string>
-    <string name="nav_drawer_email">gabrielericksilva@gmail.com</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_carros">Hello CARROS.Xml</string>
     <string name="hello_blank_site">Hello site.Xml</string>
-
     <string name="about_dialog_text">
       <![CDATA[
         <b>Aplicativo dos Carros 2015</b><br>
         Versao %s<br><br>
         <a href="https://github.com/gaesilva100">https://github.com/gaesilva100</a><br><br>
         <a href="https://www.facebook.com/gabriel.ericksilva">https://www.facebook.com/gabriel.ericksilva</a><br><br>
+
     ]]>
 
     </string>
     <string name="about_dialog_title">Gabriel ERICK SILVA </string>
     <string name="ok">OK</string>
 
+
     <!-- Tab Carros-->
 
     <string name="classicos">Classicos</string>
     <string name="esportivos">Esportivos</string>
     <string name="luxo">Luxo</string>
-    <string name="title_activity_carro">CarroActivity</string>
 </resources>
