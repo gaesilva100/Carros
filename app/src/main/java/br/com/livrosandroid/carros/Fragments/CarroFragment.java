@@ -29,8 +29,8 @@ public class CarroFragment extends BaseFragment{
 
              this.carro = carro;
             setTextString(R.id.tDesc, carro.desc);
-            final ImageView imgView = (ImageView) getView().findViewById(R.id.img);
-            Picasso.with(getContext()).load(carro.urlFoto).fit().into(imgView);
+            //final ImageView imgView = (ImageView) getView().findViewById(R.id.img);
+           // Picasso.with(getContext()).load(carro.urlFoto).fit().into(imgView);
         }
 
     }
